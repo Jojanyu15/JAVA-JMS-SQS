@@ -1,0 +1,62 @@
+[
+  {
+    "customer": { "id": 1, "fullName": "Osbourn Pavis" },
+    "item":
+      {
+        "name": "Coffee",
+        "price": 24.6,
+        "volume": 13.4,
+        "type": "LIQUID_ITEM",
+        "quantity": 2
+      },
+    "total": 49.2
+  },
+  {
+    "customer": { "id": 3, "fullName": "Ozzy Osbourne" },
+    "item":
+    {
+      "name": "Bread",
+      "price": 10.0,
+      "volume": 0,
+      "type": "COUNTABLE_ITEM",
+      "quantity": 2
+    },
+    "total": 20.0
+  },
+  {
+    "customer": { "id": 4, "fullName": "Corey Taylor" },
+    "item":
+    {
+      "name": "Cappuccino",
+      "price": 15.0,
+      "volume": 10.0,
+      "type": "LIQUID_ITEM",
+      "quantity": 1
+    },
+    "total": 15.0
+  },
+  {
+    "customer": { "id": 2, "fullName": "Axl Rose" },
+    "item":
+    {
+      "name": "Cookie",
+      "price": 5.0,
+      "volume": 0,
+      "type": "COUNTABLE_ITEM",
+      "quantity": 11
+    },
+    "total": 55.0
+  },
+  {
+    "customer": { "id": 9, "fullName": "James Hetfield" },
+    "item":
+    {
+      "name": "Cheesecake",
+      "price": 20.0,
+      "volume": 0,
+      "type": "COUNTABLE_ITEM",
+      "quantity": 4
+    },
+    "total": 80.0
+  }
+]
